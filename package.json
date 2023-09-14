@@ -1,0 +1,25 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "This is learn react by Sarvagya",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarvagyaP24/react-basics.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Sarvagya Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarvagyaP24/react-basics/issues"
+  },
+  "homepage": "https://github.com/SarvagyaP24/react-basics#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
